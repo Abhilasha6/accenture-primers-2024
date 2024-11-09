@@ -1,0 +1,11 @@
+BEGIN
+
+    DECLARE variables basicCost, exciseDuty, salesTax, roadTax, totalCost
+
+    READ basicCost, exciseDuty, salesTax, roadTax
+
+        SET totalCost = basicCost + exciseDuty*0.15 + salesTax*0.1 + roadTax*0.01
+
+    PRINT totalCost
+
+END

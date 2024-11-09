@@ -1,0 +1,11 @@
+BEGIN
+
+   DECLARE variables X, Y, Speed
+
+    READ X, Y
+
+        SET Speed=X/Y
+
+    PRINT Speed
+
+END

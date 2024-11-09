@@ -1,0 +1,229 @@
+Topic: Introduction to Algorithms, Flowcharts & Pseudocode
+
+
+1. Stephany is learning to draw a flowchart to calculate the area of a circle. Select the appropriate option that would fit into the process section of the flow chart?
+
+
+Select one:
+
+a.
+Print the area
+
+b.
+Area=3.14*radius*radius
+
+c.
+Read the value of radius
+
+d.
+Check if radius has positive value
+
+Any process/action involved in a problem would fit into the process section of a flowchart and should be denoted by the rectangle symbol. Calculation of area is the process involved in the above problem
+
+The correct answer is: Area=3.14*radius*radius
+
+
+2. Choose the correct arrangement of mathematical symbols to make the equation true.
+
+
+
+a.
+600 [+] 400 [‑] 800 [×] 300 [/] 200 = 200
+
+
+
+b.
+600 [/] 400 [+] 800 [‑] 300 [×] 200 = 200
+
+
+
+c.
+600 [‑] 400 [+] 800 [/] 300 [×] 200 = 200
+
+
+
+d.
+ 600 [×] 400 [/] 800 [-] 300 [+] 200 = 200
+
+
+The correct answer is:
+
+ 600 [×] 400 [/] 800 [-] 300 [+] 200 = 200
+
+3. Match the symbols and flowchart to its appropriate functionality
+
+Rectangle: Process
+Parallelogram: Input/output
+Diamond: Decision making
+
+
+4. An algorithm described in the form of programming language is (Note: not exactly to any particular programming language, but by using few programming constructs) :  pseudocode
+
+5. Which of the following represents the correct sequence for the given pseudo-code?
+
+BEGIN
+
+-------------
+
+-------------
+
+-------------
+
+-------------
+
+END
+
+
+b. (CORRECT)
+DECLARE variables – number1, number2, result
+
+READ number1 and number2
+
+result <- number1 * number2
+
+PRINT result
+
+
+6. Rearrange the pseudo-code for multiplying two given numbers, Choose the correct option from the below.
+
+ 1 BEGIN
+
+ 2 result <- number1 * number2
+
+ 3 PRINT result
+
+ 4 READ number 1 and number 2
+
+ 5 DECLARE variables – number1, number2, result
+
+ 6 END
+
+
+c. (CORRECT)
+1 5 4 2 3 6
+
+
+7. Examine the correct logic with their descriptions
+
+BEGIN
+            DECLARE mark1, mark2, mark3, average
+            READ mark1, mark2, mark3
+            average <- (mark1+mark2+mark3)/3
+            PRINT average
+END
+
+Answer 1
+finding the average mark of three subjects
+
+BEGIN
+            DECLARE principal, number_of_years, rate_of_interest,result
+            READ principal, number_of_years, rate_of_interest
+            result <---(principal* number_of_years*, rate_of_interest)/100
+            PRINT result
+END
+
+Answer 2
+calculating simple interest problem
+
+BEGIN
+            DECLARE radius,circumference
+            READ radius
+            circumference <---- 2*3.14*radius
+            PRINT circumference
+END
+
+Answer 3
+calculating the perimeter of a circle
+
+8. Which of the following represents the correct sequence for the given pseudo-code?
+
+BEGIN
+
+   [1] READ mark1, mark2, mark3, mark4, mark5
+
+   [2] PRINT average
+
+   [3] total < mark1 + mark2 + mark3 + mark4 + mark5
+
+   [4] average < total / 5
+
+   [5] DECLARE mark1, mark2, mark3, mark4, mark5, total, average
+
+END
+
+d. (CORRECT)
+5 1 3 4 2
+
+9. Match the appropriate Flowchart symbols with its purpose.
+
+The correct answer is:
+
+Rounded Rectangle: Start/Stop
+
+Circle: Connector
+
+->: Flow direction
+
+Diamond: Decision making
+
+Rectangle: Process
+
+Parallelogram: Input/output
+
+
+10. Which of the following represents the correct sequence for the given algorithm?
+
+
+a. (CORRECT)
+Start
+
+Get the two numbers.
+
+Add the two numbers and store the result in sum.
+
+Display the sum value.
+
+Stop
+
+
+
+11. Arrange the words given below in a meaningful sequence.
+
+1. Word, 2. Paragraph, 3. Sentence, 4. Letters, 5. phrase
+
+Select one:
+
+d. (CORRECT)
+4,1,5,3,2
+
+
+12. Flow chart for adding numbers, Is the given flowchart correct?
+
+Input/output process like reading values, getting input from the user is denoted by parallelogram symbol
+The correct answer is: The symbol for reading input from the user is incorrect
+
+
+13. Choose the correct and meaningful pseudo-code to add two numbers?
+
+Correct Answer: b.
+
+BEGIN
+
+        DECLARE  number1,number2,sum
+
+        READ number1,number2
+
+        sum<----number1+number2
+
+        PRINT sum
+
+END
+
+14. Expression is a combination of ___________, ____________ and _______________
+ans: variables, constants, operators
+
+15. Identify the meaningful variable names which can be used? Select one or more:
+
+Variable names should not start with a number, should not have spaces in between, should not start with symbols except dollar( $ ) and underscore( _ )
+
+The correct answers are: registerNumber, user1
