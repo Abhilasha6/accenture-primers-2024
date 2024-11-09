@@ -1,0 +1,70 @@
+1. Save Tweety
+Silvester and Tweety are friends. Bender was one of the Silvester's enemy. One day Silvester and Tweety went on to a trip. Bender planned to kidnap Tweety.. He kidnapped and kept her in one of the  hot balloons tied up to a height. There were 50 hot balloons numbered from one. Each balloon will fly to a certain height. Only the numbers  having both  3 and 7 as its factors can fly upto the height of the Tweety's balloon. Silvester was confused and he didn't know which numbered balloon can fly to Tweety. (Note: If balloon number is greater than 50, or balloon number less than 1, then it should display invalid balloon number)
+ANS: BEGIN
+   DECLARE variable number
+   READ number
+   IF 
+number > 50
+ 
+OR number < 1
+ THEN
+            PRINT 
+"Invalid balloon number "
+
+   ELSE IF 
+number%3 == 0
+ 
+AND number%7 == 0
+ THEN
+           
+PRINT
+ 
+"This balloon can fly to Tweety"
+
+  
+ELSE
+
+           
+PRINT
+ 
+"This balloon cannot fly to Tweety"
+
+  
+END IF
+
+END
+
+
+2. Hide and Seek 
+
+One day, Bunny and his friends were playing hide and seek in the forest. Tom went along to hide. He finds an abandoned bag containing a board(8x8) game in a cave. He gets excited and starts playing the game only to realizes that it's magical. He has three chances to roll the dice. Each turn's outcome will lead into a new surrounding and some would be dangerous. If the outcome of rolling dices is in multiples of 3 then he will be caught in a dangerous phase. 
+
+ Note if any one outcome is multiple of 3, then tom is in danger. 
+
+ (If the outcome of rolling dices is either 0 or less than that you should tell Tom as "Invalid Turn". ) 
+ ANS:
+ BEGIN 
+
+DECLARE variables  turn1,turn2,turn3 
+
+READ turn1, turn2, turn3 
+
+IF turn1>0 AND turn2>0 AND turn3>0 THEN 
+
+IF turn1%3==0 OR turn2%3==0 OR turn3%3==0 THEN 
+
+PRINT "Tom is in Danger" 
+
+ELSE 
+
+PRINT "Tom is Safe" 
+
+END IF 
+
+ELSE 
+
+    PRINT "Invalid turn" 
+
+END IF 
+
+END 

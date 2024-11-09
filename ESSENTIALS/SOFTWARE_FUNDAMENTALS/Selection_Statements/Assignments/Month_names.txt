@@ -1,0 +1,13 @@
+BEGIN
+    DECLARE variables month, season
+    READ month
+    IF month=="March" OR month=="April" OR month=="May" THEN
+    PRINT "Summer"
+    ELSE IF month=="December" OR month=="January" OR month=="February"
+    PRINT  "Winter"
+    ELSE IF month=="September" OR month=="October" OR month=="November"
+    PRINT "Autumn"
+    ELSE IF month=="June" OR month=="July" OR month=="August"
+    PRINT "Spring"
+    ENDIF
+END

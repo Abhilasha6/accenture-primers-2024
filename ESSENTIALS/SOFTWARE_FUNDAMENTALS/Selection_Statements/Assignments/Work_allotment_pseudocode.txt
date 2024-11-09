@@ -1,0 +1,42 @@
+BEGIN
+
+    DECLARE variables age, maritalStatus, sex
+
+    READ age, maritalStatus, sex
+
+    IF age<=0 THEN
+
+        PRINT "Invalid age"
+
+    ELSE IF age<20 THEN
+
+        PRINT "Age limit is less"
+
+    ELSE IF age>60 THEN
+
+        PRINT "Age limit is high"
+
+    ELSE
+
+        IF sex=="F" THEN
+
+            PRINT "she will work in urban areas only"
+
+        ELSE IF sex=="M" 
+
+            IF maritalStatus=="N" THEN
+
+                IF age>=20 AND age <40
+
+                    PRINT "he could be put to work anywhere"
+
+                ELSE IF age>=40 AND age <60
+
+                    PRINT "he will work in urban areas"
+                ENDIF 
+            ELSE IF maritalStatus=="Y" THEN
+                PRINT "he will work in urban areas"
+            ENDIF
+        ENDIF
+    ENDIF
+END

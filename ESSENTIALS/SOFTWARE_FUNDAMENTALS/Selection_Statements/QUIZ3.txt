@@ -1,0 +1,190 @@
+1. Choose the correct options to complete the pseudo-code and determine whether the number is positive, zero, or negative.
+
+ BEGIN
+
+ DECLARE number
+
+ READ number
+
+ IF  _________
+
+            PRINT “Number is positive”
+
+ IF  _________
+
+            PRINT “Number is zero”
+
+IF  _________
+
+            PRINT “Number is Negative”
+
+END IF
+
+END
+
+ANS: number>0, number==0, number<0
+
+2. You are returning home from a hotel. On the way, you find a sealed envelope in a street, fully addressed with unused stamps on it. What would you do???
+
+ANS: post it at the nearest mail box.
+
+3. Decision statements are also called as  _______________.
+
+ANS: Selection logic
+
+4. When a single if-else logic is used, how many possible choices can be there?
+
+ANS: 2
+
+5. If a doctor gives you 3 pills and tells you to take one pill every half hour, how long would it take before all the pills had been taken?  
+
+ANS: 1 hour
+
+6. From the option, find the correct pseudo-code to find the greatest of three numbers
+
+ANS: 
+BEGIN
+DECLARE variables a,b,c
+
+READ  a,b,c
+        IF a>b
+                        IF a>c
+                                        PRINT “a”
+                        ELSE
+                                        PRINT “c”
+        ELSE IF b>c
+                        PRINT “b”
+        ELSE
+              PRINT “c”
+END
+
+7. Manual execution of the steps in the algorithm is called as _____
+
+ANS: Dry run
+
+8. A computer program must either use conditional statements or looping statements or sequential statements to solve a problem. All of them must not appear in the same program. State true/ false.
+
+ANS: False
+
+9. Which statement logic implements multiple-way selection?
+
+ANS: Else if ladder
+
+10. By default, the flow of a program is________
+
+ANS: top to bottom
+
+11. Identify the logic which suits the flowchart
+
+ANS: Else-if Ladder
+
+12. Which of the keyword is used to close the IF block, while writing a pseudo-code?
+
+ANS: End if
+
+13. Which of the following is not a keyword used in a pseudo-code
+
+ANS: Start
+
+14. Consider the pseudo-code snippet. What output do you think the snippet will produce if the sample input for number is 3?
+BEGIN
+
+DECLARE number
+
+READ number
+
+IF number>=0
+
+               IF number == 0
+
+                                PRINT “Zero”
+
+               ELSE
+
+                               PRINT “Three”
+
+ENDIF
+
+PRINT “No Value”
+
+END
+
+ANS: 
+Three
+No value
+
+15. What do you infer from this statement?
+
+“Only if Alvin is happy, then he does not go to work.”
+
+ANS: If Alvin is not happy, he goes to work.
+
+16. Go to statements in the algorithm is…
+
+ANS: Used to alternate the flow of the program           
+
+17. Arrange the pseudo-code logic for checking a number divisible by 5 or 11.
+
+ANS:
+BEGIN
+DECLARE number
+READ number
+IF number%5==0
+THEN
+PRINT “number divisible by 5”
+ELSE IF number%11==0
+THEN
+PRINT “number divisible by 11”
+ELSE
+PRINT ““number not divisible by 5 or 11”
+END IF
+END
+
+18. ______________must be used when a set of statements needs to be executed only if a condition is met.
+
+ANS: selection statements
+
+19. Identify the correct pseudo-code logic for checking a number divisible by 5 or 11.
+
+ANS: 
+BEGIN
+
+     DECLARE number
+
+     READ number
+
+     IF number%5==0
+
+     THEN
+
+     PRINT “number divisible by 5”
+
+     ELSE IF number%11==0
+
+     THEN
+
+     PRINT “number divisible by 11”
+
+     ELSE
+
+     PRINT “number not divisible by 5 or 11”
+
+     END IF
+
+     END
+
+20.  If there are 6 chocolates and you take away 4, how many do you have?
+
+ANS: 4
+
+21. READ age
+
+IF age>18
+
+THEN
+
+PRINT “Eligible to vote”
+
+ENDIF The given pseudo-code snippet is an example for_______
+
+ANS: Simple If logic

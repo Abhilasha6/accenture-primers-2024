@@ -1,0 +1,62 @@
+BEGIN
+
+DECLARE variables n, n1, n2, n3, dist1, dist2, dist3, minDistance
+
+    PRINT "Enter the floor number you want to get down:"
+
+    READ n
+
+    IF n < 0 THEN
+
+        PRINT "Invalid Floor number"
+
+        EXIT
+
+    ENDIF
+
+    PRINT "Enter the floors in which the lift will stop:"
+
+    READ n1, n2, n3
+
+    dist1 = ABS(n - n1)
+
+    dist2 = ABS(n - n2)
+
+    dist3 = ABS(n - n3)
+
+    minDistance = MIN(dist1, dist2, dist3)    
+
+    IF dist1 == minDistance AND n1 <= n THEN
+
+        closestFloor = n1
+
+    ELSE IF dist2 == minDistance AND n2 <= n THEN
+
+        closestFloor = n2
+
+    ELSE IF dist3 == minDistance AND n3 <= n THEN
+
+        closestFloor = n3
+
+    ELSE
+
+        IF dist1 == minDistance THEN
+
+            closestFloor = n1
+
+        ELSE IF dist2 == minDistance THEN
+
+            closestFloor = n2
+
+        ELSE
+
+            closestFloor = n3
+
+        ENDIF
+
+    ENDIF
+
+    PRINT "You may get down at floor number", closestFloor
+
+END
+

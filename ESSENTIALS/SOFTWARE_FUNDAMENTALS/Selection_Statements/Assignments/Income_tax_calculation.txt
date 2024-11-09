@@ -1,0 +1,41 @@
+BEGIN
+
+DECLARE variables age, income
+
+READ age, income
+
+IF age < 20  THEN
+    PRINT  "Age is less"
+ELSEIF age > 100 OR age < 0 OR income <= 0
+    PRINT "Invalid input"
+ELSEIF  age >= 20 AND age < 60 THEN
+
+IF income<= 2, 50,000 THEN
+PRINT 0
+ELSE IF income>2,50,000  AND income<=  5,00,000 THEN
+PRINT 0.1*income
+ELSE IF income  > 10, 00,000 THEN
+PRINT 0.3*income
+ENDIF
+
+ELSEIF age >=60 and age<=80
+IF income<= 3, 00,000 THEN
+PRINT 0
+ELSE IF  income > 3,00,000 AND income <=5,00,000 THEN
+PRINT 0.1*income
+ELSE IF income > 5,00,000 AND income <=10,00,000 THEN
+PRINT 0.2*income
+ELSE IF income>10,00,000 THEN
+PRINT 0.3*INCOME
+ENDIF
+
+ELSE IF age >80  and age<=100
+IF income<= 5, 00,000 THEN
+PRINT 0
+ELSE IF  income > 5,00,000 AND income <=10,00,000 THEN
+PRINT 0.2*income
+ELSE IF  income >10,00,000 THEN
+PRINT 0.3*income
+ENDIF
+ENDIF
+END

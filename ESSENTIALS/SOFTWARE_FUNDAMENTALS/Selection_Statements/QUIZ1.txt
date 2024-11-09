@@ -1,0 +1,30 @@
+Question 1
+
+    Pointing to a photograph of a boy Mathew said, "He is the son of the only son of my mother." How is Mathew related to that boy?
+    Select one:
+    ANS:
+    The boy in the photograph is the son of Mathew. Hence , Mathew is the father of boy.
+
+Question 2
+
+    Assume, there are four boys sitting on a sofa. Mithran is to the left of Anwar. Babu is to the right of Anwar. Edwin is between Anwar and Babu. Who would be second from the left in the photograph?
+    Select one:
+
+    ANS:
+
+    Mithran is to the left of Anwar and Babu is to his right. Edwin is between Anwar and Babu. So the order is Mithran, Anwar, Edwin, Babu. In the photograph Edwin will be second from left.
+
+Question 3
+
+    Analyze the statements.
+
+    i)Danny is younger than Edwin
+
+    ii)Christine is younger than Danny.
+
+    iii)Christine is older than Edwin.
+
+    If the first two statements are true, the third statement is
+
+    ANS:
+    Because the first two statements are true, Christine is the youngest of the three, so the third statement must be false.

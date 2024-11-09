@@ -1,0 +1,23 @@
+BEGIN
+
+DECLARE variables vehNo, fee
+
+READ vehNo, fee
+
+IF vehNo%5==0 AND vehNo%3==0 THEN
+
+PRINT "vehicle will move on for free of cost"
+
+ELSE IF vehNo%5==0 OR vehNo%3==0 THEN
+
+PRINT "vehicle should pay half of the fee"
+
+PRINT fee*0.5
+
+ELSE 
+PRINT "vehicle has to pay the full amount"
+
+PRINT fee
+
+ENDIF
+END
