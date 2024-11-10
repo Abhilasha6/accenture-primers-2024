@@ -1,0 +1,29 @@
+BEGIN
+
+DECLARE variables num, sum=0, dig, temp
+
+READ num
+
+SET temp=num
+
+WHILE num!=0 DO
+
+dig=num%10
+
+sum=sum+(dig^3)
+
+num=num/10
+
+END WHILE
+
+IF temp==sum THEN
+
+PRINT "Armstrong Number"
+
+ELSE
+
+PRINT "Not armstrong number"
+
+END IF
+
+END

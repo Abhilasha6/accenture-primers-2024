@@ -1,0 +1,111 @@
+1. Select the appropriate code snippet for the given problem statement provided as pseudocode. 
+
+Problem Statement : 
+Strong number 
+
+Check if a given number is a strong number. 145 is a strong number because 1!+4!+5! = 145.  
+
+  
+
+Sample Input : 
+
+145 
+
+Sample Output : 
+
+Strong number 
+
+  
+
+Code: 
+
+BEGIN 
+
+DECLARE variables number, sum, temp, remainder, fact 
+
+READ number 
+
+SET sum=0, temp=number 
+
+__________________ 
+
+remainder = number % 10 
+
+SET fact = 1 
+
+FOR i IN 1 to remainder DO 
+
+fact = fact *i 
+
+END FOR 
+
+sum = sum+ fact 
+
+number = number / 10 
+
+END WHILE 
+
+IF sum==temp THEN 
+
+PRINT "Strong number" 
+
+ELSE 
+
+PRINT "Not a Strong number" 
+
+END IF 
+
+END 
+
+ANS: WHILE number != 0
+
+2. Choose the pseudocode for the below problem statement. 
+
+Problem Statement : 
+
+Vehicle Registration 
+
+Mr.William buys a new Audi car. During the vehicle registration, he desires a fancy number in such a way that both the number and its reverse are the same. 
+
+Generate an algorithm to find that fancy number. 
+
+  
+
+Sample Input : 
+
+1221 
+
+Sample Output : 
+
+Number is Fancy 
+
+ANS:
+BEGIN 
+
+DECLARE  variables number, reverse, rem, temp 
+
+READ number 
+
+SET reverse = 0, temp = number 
+
+WHILE number !=0 DO 
+
+rem = number%10 
+
+reverse = reverse*10 + rem 
+
+number = number/10 
+
+END WHILE 
+
+IF temp == reverse THEN 
+
+PRINT "Number is Fancy" 
+
+ELSE 
+
+PRINT "Number is Not Fancy" 
+
+END IF 
+
+END 

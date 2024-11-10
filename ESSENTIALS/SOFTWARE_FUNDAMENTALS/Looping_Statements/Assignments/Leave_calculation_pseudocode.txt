@@ -1,0 +1,13 @@
+BEGIN
+
+DECLARE variables N
+
+DO
+
+READ N
+
+WHILE N>=0 AND N<=20
+
+PRINT N+17
+
+END

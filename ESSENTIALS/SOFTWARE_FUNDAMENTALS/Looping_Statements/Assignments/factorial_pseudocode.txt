@@ -1,0 +1,8 @@
+BEGIN
+DECLARE variables number, factorial = 1, i
+READ number
+FOR i = 1 TO number DO
+SET factorial  <- factorial * i
+END FOR
+PRINT factorial
+END

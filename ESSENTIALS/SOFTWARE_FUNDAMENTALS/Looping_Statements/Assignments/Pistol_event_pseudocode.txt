@@ -1,0 +1,16 @@
+BEGIN
+
+DECLARE variables count ,sum ,number
+SET count =0 , sum=0
+
+READ number
+WHILE sum<=100 DO
+
+sum=sum + number
+ count =count + 1
+ READ number
+END WHILE
+
+PRINT "The number of turns is "+ count
+
+END

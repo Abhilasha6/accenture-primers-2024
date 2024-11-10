@@ -1,0 +1,203 @@
+1. Match the appropriate opening and closing blocks in looping statements.
+WHILE	
+Answer: END WHILE
+ 
+FOR	
+Answer: END FOR
+ 
+IF	
+Answer: END IF
+ 
+BEGIN
+Answer: END
+ 
+2. Which looping logic is exit controlled?
+do..while loop
+
+3. BEGIN
+
+                        DECLARE variables i, factorial
+
+                        SET factorial <-- 1
+
+                        FOR  i<--1 to 5 do
+
+                                       
+factorial <--factorial * i
+----------------------------
+ 
+
+                                        i <-- i+1
+
+                        END FOR
+
+                        PRINT factorial
+
+     END
+
+Which of the following statement should be inserted to complete the above pseudo code for finding factorial of 5 numbers.
+
+4. Consider the output: “0, 2, 4, 6, 8 ,10 ,12, 16”
+
+Which of the below given pseudo code snippet gives the above output?
+
+
+Select one:
+
+ANS:
+BEGIN
+
+DECLARE number, count, even
+
+SET count <-- 8, number <-- 0, even <-- 0
+
+WHILE number<count
+
+            PRINT even
+
+            SET even <-- even + 2
+
+            number <-- number + 1
+
+END WHILE
+
+PRINT even
+
+END
+
+5. Predict the output of the given flowchart.
+ANS: 1 2
+
+6. Iteration/looping is a repetition of___________
+
+Select one or more:
+
+ANS:
+a.
+single statement
+
+b.
+Block of statements
+
+7.  Do-while looping statement is almost same as______
+
+ANS: While loop
+
+8. What is true about FOR LOOP?
+
+Select one:
+
+ANS:
+a.
+In for loop, the exact number of iterations is known
+
+9. Jack wants to book flight tickets in Feather-Airways’ online portal for his family of five. Passenger details like name, age, gender etc. should be entered for each member. The same process of getting details continues for all the five members. The above scenario is a good example for which looping statements?
+
+Select one:
+ANS:
+a.
+For loop
+
+10. What will be the output for WHILE loop?
+
+ 
+
+BEGIN
+
+DECLARE number
+
+SET number <-- 30
+
+WHILE number>0
+
+            number <-- number-4
+
+END WHILE
+
+PRINT number
+
+END
+
+ANS: -2
+
+11. What is the output for FOR-loop snippet?
+
+FOR i <--1 to 15
+
+            PRINT i
+
+            i <-- i+3
+
+END FOR
+
+ANS: 1 4 7 10 13
+
+12. Which of the following symbols is inappropriate in building the flowchart pertaining to sequential flow of program?
+
+ANS: Diamond
+
+13. The statement / statements within the loop must get executed at least once except for do-while statement. State True/False.
+
+ANS: False
+
+14. Which of the following statements are true with respect to looping statements?
+
+Select one or more:
+ANS:
+a.
+the condition under which the iterative process should get terminated must be given
+
+b.
+initial condition must be applied before the loop begins to execute
+
+15. Which of the following statements are true?
+
+ANS: 
+An operand is a mandatory element in an expression.,
+The operand in an expression can be a variable or a constant.
+
+16. Consider you have a Rubik cube with different colors in each face. To solve this cube, you will continue to rotate the sides until you reach same colors in all faces. This is a real time example for which looping statements?
+
+ANS: While loop
+
+17. 
+
+    1) Step by step list of instructions: ALGORITHM
+
+    4) When you know the exact number of iterations, this loop is used: FOR
+
+    2)When a process/set of actions is to be repeated, these statements are used.: LOOPING
+
+    3) In looping, Each execution of a statement/block of statements is technically termed as__ITERATION____
+
+    5) This loop statement is also called as exit-controlled loop: DO..WHILE
+
+
+18. Identify the logic which suits the flowchart?
+
+Select one:
+b.
+While loop
+
+19. It's Halloween. You go from house to house, tricking or treating. You get 2 candies from each house that you go to. You must return home once you collect 100 candies. Can you arrange the sequence for this loop activity.
+
+1         BEGIN
+
+2         SET candy count <- 0
+
+3         END WHILE
+
+4         DECLARE candy_count
+
+5         WHILE candy_count<=100
+
+6         candy count <- candy_count+2
+
+7         END
+
+ANS: 1 4 2 5 6 3 7
+
+20. Looping statements are also called ____________
+
+ANS: Iteration logic
+

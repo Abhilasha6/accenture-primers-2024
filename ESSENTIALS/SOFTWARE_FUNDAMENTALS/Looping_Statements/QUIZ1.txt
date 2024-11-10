@@ -1,0 +1,22 @@
+1.Take 1 away from me and you get a prime number; add 1 to me and you get twice that prime number.
+
+ANS: 3-1=2
+3+1=4
+2 square is 4
+The correct answer is: 3
+
+2. Find out the logic of series and complete. 
+
+9 = 4, 21 = 9, 22 = 9, 24 = 10, 8 = 5, 7 = 5, 99 = 10, 100 = 7, 16 = ?
+
+ANS: Number of letters in the spelling of 16.
+The correct answer is: 7
+
+3. I am an odd number; take away an alphabet and I become even. What am I?	
+ANS: 7
+ 
+I am a number with a couple of friends, quarter a dozen, and you'll find me again. What am I?
+ANS: 3
+ 
+Multiply me by myself and you will get the equivalent of adding me to myself.what am I?
+ANS: 2

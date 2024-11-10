@@ -1,0 +1,22 @@
+BEGIN
+
+DECLARE variables a=0, b=1, c, i
+
+PRINT a
+
+PRINT b
+
+FOR i=2 to 100 DO
+
+c=a+b
+
+PRINT c
+
+a=b
+
+b=c
+
+END FOR
+
+END
+
