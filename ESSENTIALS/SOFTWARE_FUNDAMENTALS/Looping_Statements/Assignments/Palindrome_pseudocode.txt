@@ -1,0 +1,27 @@
+BEGIN
+
+DECLARE variables N, temp, rev=0
+
+READ N
+
+SET temp=N
+
+WHILE N!=0 DO
+
+rev=rev%10+dig
+
+N=N/10
+
+END WHILE
+
+IF rev==temp THEN
+
+PRINT "Palindrome"
+
+ELSE
+
+PRINT "Not palindrome"
+
+END IF
+
+END

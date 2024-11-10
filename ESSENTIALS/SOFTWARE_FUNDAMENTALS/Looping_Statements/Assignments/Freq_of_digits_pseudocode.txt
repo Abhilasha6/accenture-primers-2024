@@ -1,0 +1,23 @@
+BEGIN
+
+DECLARE variables num, dig, i, frequency[10]={0,0,0,0,0,0,0,0,0,0}
+
+READ num
+
+WHILE num!=0 DO
+
+dig=num%10
+
+frequency[dig]=frequency[dig]+1
+
+num=num/10
+
+END WHILE
+
+FOR i=0 to 9 DO
+
+PRINT "Frequency of", i, "=", frequency[i]
+
+END FOR
+
+END
