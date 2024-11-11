@@ -1,0 +1,27 @@
+1. Y2K problem is an example for ------------- maintenance
+
+ANS: Preventive
+
+2. Client wanted to add  a new feature to his existing application  "Discount Offers" for all the existing customers. Whenever a new product comes to the supermarket,  their customer's should be intimated with the week day offer. What kind of maintenance is this?
+
+ANS: Perfective Maintenance
+
+3. Client has developed an application that allows each of their customers to store 2TB of data. As the number of Customers are increasing client feels the storage space has to be increased for smooth operations to its customers. What type of maintanence is this?
+
+ANS: Preventive Maintenance
+
+4. In an online shopping application, during customer registration the customer was made to enter his city in a text box. As the site became popular for online shopping, the client came back to include autocomplete feature in the city field to improve user friendliness. What maintenance needs to be carried out in this scenario?
+
+ANS: Perfective
+
+5. Any changes done to the software during the operational phase of the software before project wind up is called as maintenance.  State if True or False.
+
+ANS: FALSE
+
+6. In Software maintenance, changes are implemented by modifying existing components and adding new components to the system. State if True or False.
+
+ANS: True 
+
+7. Software maintenance for the change of the platform is an example for --------- maintenance
+
+ANS: Adaptive

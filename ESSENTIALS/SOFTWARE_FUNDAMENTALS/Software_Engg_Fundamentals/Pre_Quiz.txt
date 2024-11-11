@@ -1,0 +1,18 @@
+1. ABC company comes to the Allen Software Company with various requirement. The client wants the functionality to view all the employee profile, view salary information of the employee and view the leave details.Once each functionality is completed the module will be delivered to the client. Which would be the right model for this scenario
+ANS: Incremental model
+
+2. A client wants to develop a Web application for the new Super market store. The client want to have lot of UI components and customers will have lot of interactions with the UI. What model is best suited
+ANS: Prototype
+
+3. ________ involves transformation of user needs into an effective software solution.
+ANS: Software development process
+
+4. Spiral life cycle model is not suitable for products that are vulnerable to large number of risks. State if True or False.
+ANS: False
+
+5. When there is a difference between the output what is expected and the actual one is termed as……
+ANS: Defect
+
+6. XYZ Finance Co. has, at present, started its operations in India. Based on the first six months performance, it has plans for expansion across five countries. They want to automate their operations at this stage. What is the process model that the developer should choose to adopt?
+ANS: Evolutionary prototyping model
+

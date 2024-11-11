@@ -1,0 +1,23 @@
+1. The standard document that describes all the requirements of the system is called as …
+
+ANS: Software Requirement Specification
+
+2. Client Comes to Allen Company for a Banking Solution. Who from the below options would be best suited to gather all the requirements correctly from the client
+
+ANS: System analyst
+
+3. In remote control Car application, in the step by step execution of the requirement described,  it is mentioned when the fuel level goes below the minimum level, the application should indicate the user in red color. In the output section of the same process it is mentioned that the indicator will glow pink. What is the kind of requirement specified in SRS?
+
+ANS: Contradicting
+
+4. A good SRS should be ______, ________ and _______.
+
+ANS: Traceable, Consistent, Complete
+
+5. Client Comes to Allen Company for a Banking Solution.Which phase of SDLC is best suited to gather what is expected from client
+
+ANS: Requirement analysis
+
+6. An SRS has the following requirement.The stock exchange shall show the stock report for the next 24 hours.What is the issue with this requirement
+
+ANS: Ambiguous

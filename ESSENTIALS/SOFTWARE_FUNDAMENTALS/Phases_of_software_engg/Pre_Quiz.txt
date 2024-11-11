@@ -1,0 +1,20 @@
+1. _______ describes how the development activities will be performed and how development phases follow each other.
+
+ANS: Software Development Process
+
+2. During which phase the following activities are performed: Identifying the  major modules of the system, how these modules integrate, the architecture of the system and describing pseudo code for each of the identified module
+
+ANS: Design
+
+3. Aesthetics of the website is part of the functional requirement. State true or false
+
+ANS: FALSE 
+
+4. _________ is the application of a systematic, disciplined, quantifiable approach to the design, development, operation and maintenance of software.
+
+ANS: Software Engineering
+
+5. Requirement came to Allen Software company to develop a software for military purpose. .00001 second  delay in the missile launching software would create greater loss to the human life. What kind of model is best suited for this scenario?
+
+ANS: Spiral model
+
