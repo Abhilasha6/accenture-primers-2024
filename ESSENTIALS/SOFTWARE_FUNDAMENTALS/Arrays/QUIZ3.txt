@@ -1,0 +1,111 @@
+1. A mathematical quiz context happened in a school and the scores are stored in an array named quizmark. The coordinating person wants to copy the quiz score into another array named copyquizmark. Which of these options will do that?
+
+ANS: FOR index <- 0 to n
+            copyquizmark[index] <- quizmark[index]
+END FOR
+
+2. Assume,
+
+            number[100] <- 99.
+
+       How many elements can be stored inside the array variable number?
+Select one:
+ANS: The statement gives no clue about the number of elements that can be stored
+
+3. Map the scenario to its appropriate array type
+
+Matrix multiplication: 2D ARRAY
+
+To create a list of all prime numbers below 100: 1D ARRAY
+
+4. Which of the following are False with respect to the manipulation of arrays?
+
+ANS: An array can store heterogeneous data
+
+It is possible to increase the size of the array
+
+5. Negative elements can be placed inside an array. State true / false
+
+ANS: true
+
+6. The names of all associates undergoing training are stored in an array named associate_name[50]. The 5th associates’ name is retrieved as
+
+ANS: 
+associate_name[3+1]
+
+associate_name[4]
+
+7. Information about ___________ need not be specified when declaring an array
+
+ANS: the elements to be stored in the array
+
+8. It is not possible to do a search operation in an array that is not sorted. State True/False.
+
+ANS: False
+
+9. The operation of ordering the elements in the list is known as  
+ANS: Sorting
+ 
+10. Random access is not possible in an array. State True/False
+
+ANS: False
+
+11. 
+___Index___ is used to locate an element in an array.
+
+12. Assume you have an array named numbers of size 10.
+
+Which of the assignment is valid?
+
+ANS: 
+numbers[0] <- 10
+
+numbers[9] <- 5
+
+13. Which of the following statements is correct with respect to arrays?
+
+ANS: Elements  in an array are arranged contiguously.
+
+14. Expression within [ ] should always resolve to a    
+ANS: positive number
+ 
+[] = array index is always >=0
+
+15. Consider you buy a laptop. You want to store the details of that laptop such as price,
+
+model_name,model_number, warranty_period into a single array named details[10]. Is ths possible?
+
+ANS: no
+
+16. List of songs stored in your mobile phone is a good example for   
+ANS: single-dimensional arrays
+
+17. Consider you want to compare the prices of redmi , sony, samsung phones in three online sites like amazon,flipkart,ebay.
+
+Which array type is best suitable to do this comparision?
+
+ANS: two-dimensional arrays
+
+18. It is possible to traverse through an array from the first position to the last and not vice versa. State true or false.
+
+ANS:  False
+
+19. An Array consists of rows and columns is also called as________
+
+ANS: Two-dimensional array
+
+20. Choose the correct Pseudo code to store names in an array and display a name. 
+
+ANS: 
+
+BEGIN 
+
+DECLARE name [20] 
+
+INPUT name 
+
+PRINT name 
+
+END 
+
+

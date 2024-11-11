@@ -1,0 +1,13 @@
+1. A farmer has 17 sheep and all but nine die. How many are left?
+
+Select one: 9
+
+2. In a year, there are 12 months. Seven months have 31 days. How many months have 28 days?
+
+Select one: 12
+
+3. What is the next  letter in the following sequence? J,F, M, A, M, J, J, A, __.
+
+Select one: S
+
+The sequence is first letter of the months of the year. September is the next in the sequence.

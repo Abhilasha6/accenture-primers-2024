@@ -1,0 +1,139 @@
+1. Select the appropriate code snippet for the given problem statement provided as pseudocode.
+
+Problem Statement : 
+
+Dinner Plan 
+
+Five friends plan to go out for dinner. They plan to order equal number of dishes. Each row specifies individual cost. Find the total amount each person needs to pay.  
+
+Assume the values for this matrix for 3 dishes are 
+
+12 23 18 
+
+45 32 60 
+
+42 39 23 
+
+54 42 60 
+
+25 84 30 
+
+The output will be 
+
+Amount to be paid by person 1 is 53 
+
+Amount to be paid by person 2 is 137 
+
+Amount to be paid by person 3 is 104 
+
+Amount to be paid by person 4 is 156 
+
+Amount to be paid by person 3 is 139 
+
+Explanation : Output is the sum of each row 
+
+  
+
+Code: 
+
+BEGIN 
+
+DECLARE variable arr[5][20], n, sum=0 
+
+___________________ 
+
+   FOR j IN 0 to n-1 DO 
+
+READ arr[i][j] 
+
+END FOR 
+
+END FOR 
+
+FOR i IN 0 TO 4 DO 
+
+SET sum = 0 
+
+FOR j IN 0 TO n-1 DO 
+
+sum = sum + arr[i][j] 
+
+END FOR 
+
+PRINT "Amount to be paid by person "+(i+1)+" is "+sum 
+
+END FOR 
+
+END 
+
+ANS: FOR i IN 0 to 4 DO
+
+2. Choose the correct pseudocode for the below problem statement.   
+
+Problem Statement : 
+
+Find Maximum value 
+
+Choose a pseudo code to find the maximum values in each row of a matrix. Assume it is a 3x3 matrix. 
+
+  
+
+Explanation  :  Matrix  will be with index 
+
+(0,0) (0,1) (0,2) 
+
+(1,0) (1,1) (1,2) 
+
+(2,0) (2,1) (2,2) 
+
+  
+
+Assume the values for this matrix  are 
+
+12  23  18 
+
+45 32 60 
+
+42 39 23 
+
+The output will be 
+
+Max value in row 1 is 23 
+
+Max value in row 2 is 60 
+
+Max value in row 3 is 42 
+
+ANS: BEGIN 
+
+DECLARE variable arr[3][3] 
+
+FOR i IN 0 to 2 DO 
+
+   FOR j IN 0 to 2 DO 
+
+READ arr[i][j] 
+
+END FOR 
+
+END FOR 
+
+FOR i IN 0 TO 2 DO 
+
+SET max = arr[i][0] 
+
+FOR j IN 0 TO 2 DO 
+
+IF arr[i][j]>max THEN 
+
+max = arr[i][j] 
+
+END IF 
+
+END FOR 
+
+PRINT "Max value in row "+(i+1)+" is "+max 
+
+END FOR 
+
+END 
