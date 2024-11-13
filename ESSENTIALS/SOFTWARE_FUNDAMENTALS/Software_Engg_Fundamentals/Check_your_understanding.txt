@@ -1,0 +1,58 @@
+1.  Which conforms that the software meets its technical specifications?
+
+ANS: Verification
+
+2. The software is put into operation in the client’s environment. The client comes back to enhance the UI to attract more customers. This phase is called as ­­­­­­­­­­­­­­­­­_______________
+
+ANS: Maintenance
+
+3. Match the appropriate usage of the SDLC process models, based on the nature of requirements
+
+When the requirements are unstable 
+
+Answer 1
+Use the Evolutionary prototype
+ 
+When the requirements are unclear 
+
+Answer 2
+Use the Throw away prototype
+ 
+4. Which of the below is one of the phase of the prototype model?
+
+ANS: Quick design
+
+5. Match the phases of the Rapid Application Development model against their objectives
+
+Testing and turnover
+Answer 1
+New components along with all the interfaces are tested
+ 
+Business modeling
+Answer 2
+The information flow is identified between various modules
+ 
+Application generation
+Answer 3
+Automated tools are used to convert process models into the actual system
+ 
+Process modeling
+Answer 4
+Data objects are converted to achieve the business objective
+ 
+Data modeling
+Answer 5
+Information gathered from business modeling is used to define data objects
+ 
+6. Major functions are addressed in the first cycles there by delivering an operational product. Which of the SDLC process models  achieves this?
+
+ANS: Incremental model
+
+7. Beta technologies has undertaken a collision avoidance system software to be implemented for airports. Additional safety measures have to be automated by warning pilots when another aircraft gets closer, otherwise impacts are huge. Which  of the following SDLC process models best suits the requirement?
+
+ANS: Spiral model
+
+8. The student mark processing system software has been developed and deployed at the St. Peters university. The system shows the grade as 0 for all the students rather than the actual grade. Which phase below was not done properly during the SDLC?
+
+ANS: Software Testing
+

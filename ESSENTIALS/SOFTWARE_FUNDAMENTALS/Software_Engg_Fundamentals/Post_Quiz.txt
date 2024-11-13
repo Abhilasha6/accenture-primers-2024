@@ -1,0 +1,44 @@
+1. Which model emphasizes Validation and Verification at each level of stage containment?
+
+ANS: V-Model
+
+2. Consider that you have to develop a flight control system. The system is simulated as such that the original system is working. There are many potential hazards with such a system. What model would you suggest to develop the system?
+
+ANS: Spiral model
+
+3. Testing performed by the user to ensure that the system meets the agreed upon quality attributes and the specification is called as….
+
+ANS: Acceptance testing
+
+4. Choose the option that accurately represents the sequential order of phases in the Waterfall model.
+
+ANS: Requirement Gathering, Analysis, Design, Implementation, Testing, Deployment, Maintenance
+
+5. Scenario: LIC has manually carried out their process of premium collection procedure for the past 45 years. Now, they have employed the services of another company to automate the above.     
+
+Question: Which of the following models would you suggest to the outsource company?
+
+ANS: Waterfall model
+
+6. Match the correct E,T,V,X (Entry,Task,Verify,Exit) criteria  for the below scenario
+
+Reviewed design document
+
+Answer 1
+Exit
+ 
+Developing HLD and LLD Artifacts
+
+Answer 2
+Task
+ 
+Input containing the reviewed SRS
+
+Answer 3
+Entry
+ 
+Review of the artifacts
+
+Answer 4
+Verfication
+ 
