@@ -1,0 +1,46 @@
+1. Whenever a new product is arrived, the stock needs to be updated. This requirement is an example for non functional requirement. State true or False
+
+ANS: False
+
+2. Choose the correct type of testing for the given Scenario
+
+Testing to check if the report is generated within 5 sec on click of the button as agreed in the SRS
+Answer 1
+Performance Testing
+ 
+Testing to check if the card is swiped for more than three times with wrong pin, the card has to be blocked
+Answer 2
+Security Testing
+ 
+Testing to check if 1000000 users accessing website at the same point of time
+Answer 3
+Load Testing
+ 
+Testing to test the GUI components in the screen
+Answer 4
+Usability Testing
+ 
+3. Identify the possible entities from the given option
+
+Select one or more:
+ANS:
+a.
+Customer
+
+
+b.
+Sale
+
+4. Consider the below scenario. A team has many players and the player belongs to one team. Identify the  cardinality between player and team
+
+ANS: M:1
+
+5. Which of the following are available in SRS Document?
+
+ANS: The correct answers are: Functional Requirements, Non Functional Requirements, Constraints
+
+
+6. What kind of non functional requirement best suit the below scenario:  Whenever the new offers are published in the online shopping site, an sms has to be sent to all the registered customers within 10 minutes of publishing
+
+ANS: Performance Requirement
+

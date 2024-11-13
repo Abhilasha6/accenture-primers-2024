@@ -1,0 +1,35 @@
+1. Which of the following options are the steps involved in Requirements Analysis?
+
+Select one or more:
+ANS: 
+a.
+Requirements Gathering
+
+b.
+Analysis of the gathered requirements
+
+2. From the below options, identify the role of the system analyst.
+
+ANS: Creates SRS
+
+3. Identify the correct statements from the below options.
+
+ANS: Analysis is performed followed by High level design and then Low level design
+
+4. Match the correct objectives of each phase involved in Requirements Engineering
+
+ANS: Requirements Specification  → Documents all the requirements properly,
+
+ Requirements Analysis  → Analyzing the customer and the user/stakeholder to arrive at a definition of software requirements,
+
+Requirements Elicitation  → Gathering requirements from the users, customers and other stake holders
+
+5. Identify the type of design that helps in transforming the data model created during requirements analysis phase into the data structures that will be used to implement the software
+
+ANS: Data Design
+
+6. Match the objectives of the types of design involved
+
+ANS: Architecture design  → Defines the modules of the system and the functions that each module perform, 
+Low Level Design  → Focuses on writing a detailed algorithm,
+Interface design  → Describes how the software communicates with itself, and with the users interacting with the software
