@@ -1,0 +1,39 @@
+1. State true or false. Automated tools are available in the market, for managing change and versioning the software
+
+ANS: TRUE 
+
+2. Version Management allows parallel concurrent development. State True or False.
+
+ANS: TRUE
+
+3. The entry door of the Server room inside the company can be considered as equivalent to __baseline__ concept in configuration management
+
+4. John bought a new Laptop with a high end configuration. To protect his laptop and the applications installed he installed a antivirus software.This is an example for ___Preventive___ Maintenance
+
+5. Match the correct option
+Who authenticates that the change proposed is valid
+Answer 1
+Change Control Board
+ 
+The standard document where the requester fills the change in the change management process
+Answer 2
+Change Request Form
+ 
+Process that ensures that changes made are recorded and controlled
+Answer 3
+Change Management
+ 
+Process that ensures different versions of the project is managed
+Answer 4
+Configuration Management
+ 
+6. Which of the following describes the change history of an object?
+
+ANS: Evolution graph
+
+7. _________ is a committee that makes decisions regarding whether or not proposed changes to a software project can be incorporated.
+ANS: Change Control Board
+
+8. From the options identify the features that are part of the software configuration management
+
+ANS: Version management, Concurrency control, Synchronisation control

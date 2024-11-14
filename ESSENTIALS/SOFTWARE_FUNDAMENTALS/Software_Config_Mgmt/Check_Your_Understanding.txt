@@ -1,0 +1,40 @@
+1. Which of the following options are valid for the relationship between the configuration objects?
+
+ANS: A curved arrow indicates a compositional relation, A double-headed straight arrow indicates an interrelationship
+
+2. Match the following facts about Version Management
+
+Lock  a file  
+Answer 1
+Serialized changes to file.
+ 
+When a member of the team wants his code to work in isolation 
+Answer 2
+Create branches
+ 
+If a file is changed and we want to roll back to the previous version 
+Answer 3
+Automatic backup
+
+3. ___Configuration audit__ is responsible for reviewing the items against various specifications for assessing its quality and correctness
+
+4. Version Control allows users to lock files so they can only be edited by one person at a time and track changes to files
+
+ANS: TRUE
+
+5. Choose the missing steps involved in the Change Control Process in the correct order:
+
+Identify and submit change request
+
+____________
+
+Plan the change
+
+Implement and test the change
+
+Verify implementation of change
+
+Close change request
+
+ANS: Evaluate impacts of change request
+
