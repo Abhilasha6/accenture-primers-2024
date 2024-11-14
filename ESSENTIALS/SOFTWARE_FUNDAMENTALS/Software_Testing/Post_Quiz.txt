@@ -1,0 +1,40 @@
+1. Tester is trying to test whether the values in the drop down are listed properly.
+
+What type of testing the tester performs in this scenario?
+ANS: Black box testing
+
+2. After implementation of Library management system, the tester identified that certain logic are redundantly rewritten by the developers, and the coding standards are violated in few modules. What type of testing is carried out to identify these errors?
+
+ANS: Static Testing
+
+3. Determine the cyclomatic complexity for the following code:                                                                                          
+
+        Accept year
+
+	if(year mod 4=0 and year mod 100!=0) or(year mod 400 =0)
+
+	print year is leap
+
+	else
+
+	print year is not leap
+
+	end if.
+
+ANS: 4
+
+4. Boundary value analysis can only be used during white-box testing.  State if True or False.
+
+ANS: FALSE
+
+5. In the online shopping portal, for customer registration the password field can accept only characters in the range of 5 to 25. Derive test cases using Boundary value analysis
+
+ANS:5,25,4,26
+
+6. Walk through is performed by the trained moderator, whereas the Inspection is usually conducted by the author itself to record defects and deviations
+ANS: FALSE
+
+7. The testing technique that deals with the internal logic and structure of the code is called ________.
+
+ANS: WhiteBox Testing
+

@@ -1,0 +1,72 @@
+1. Identify this technique of dynamic testing where, For a range of input, three values are chosen, One value above the range, One value below the range, and One value within the range
+
+ANS: Equivalence partitioning  
+
+2. What is the difference between the actual output of a software and the correct output?
+
+ANS: Error
+
+3. Match the objectives of the phases of Software Testing Life Cycle 
+
+Test Execution 
+Answer 1
+Executing test scripts and Finding bugs
+ 
+Test Plan 
+Answer 2
+Resource allocation, creation of test environment, test schedule and test functionality
+ 
+Test Design
+Answer 3
+Test scenarios, test cases, test data, and test scripts are prepared
+ 
+4. Match the roles involved in Static Testing
+
+Author  
+
+
+Answer 1
+Writer of the ‘document under review’
+ 
+Reader  
+Answer 2
+Presents the document
+ 
+Inspector 
+Answer 3
+Inspecting the document
+ 
+Moderator 
+Answer 4
+Leads the review process
+ 
+Scribe 
+Answer 5
+Records each defect found
+ 
+5. What is the type of testing in which the tester will know about the input and the expected output details based on the specification document only but no knowledge on implementation?
+
+ANS: Black Box Testing
+
+6. Identify the correct phases of software testing life cycle.
+
+ANS: Requirements Analysis,Test Preparation,Test Case development,Test Environment Set up,Test Execution,Test Cycle closure
+
+7. Match the objectives against the techniques of generating test cases in black box testing
+
+Cause Effect Analysis 
+Answer 1
+It is suitable for applications in which combinations of input conditions are few
+ 
+Cause Effect Graphing
+Answer 2
+The causes and effects represent the nodes
+ 
+State Transition Diagram 
+Answer 3
+Involves actions as one of its components
+ 
+
+8. Which all of the following options would basis path testing perform?
+
+ANS: Statement Coverage, Condition or Branch Coverage, Loop Coverage
