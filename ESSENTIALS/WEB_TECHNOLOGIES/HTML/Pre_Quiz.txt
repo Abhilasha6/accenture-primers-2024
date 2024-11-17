@@ -1,0 +1,15 @@
+1. Which of the following is/are the new feature(s) of HTML5?
+
+ANS: Performs Client-Side validation, Supports offline Storage
+
+2. HTML stands for __________
+
+ANS: Hyper Text Markup Language
+
+3. Which element is a container for all the head elements, and may include the document title, scripts, styles, meta information, and more?
+
+ANS: <head></head>
+
+4. An application that lets you search and see material on the internet is
+
+ANS: Browser
