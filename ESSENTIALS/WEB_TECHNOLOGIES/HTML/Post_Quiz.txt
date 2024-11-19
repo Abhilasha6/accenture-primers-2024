@@ -1,0 +1,58 @@
+1. In the web page, we have a field called phoneno and inside this textbox field, the text : "Only numbers are allowed" must appear.  This should get disappeared automatically once we type the phoneno into it. Which of the below options will suit the given scenario?
+
+ANS: The correct answers are: <input type="text" placeholder="Only numbers are allowed">, <input type="tel" placeholder="Only numbers are allowed">
+
+2. Ram has designed a portal that fetches the citizens' feedback regarding the voting process in India. The portal allows the end user to choose either 'like' image or 'unlike' image, so that it gets redirected to a page : "thanks.html".
+
+ANS: <form action="thanks.html">
+
+<input type="image" src="like.jpg" alt="submit"/>
+
+<input type="image" src="unlike.jpg" alt="submit"/>
+
+</form>
+
+3. Choose the relavant HTML input type attributes.
+
+ANS: MobileNo
+
+Answer 1
+tel
+ 
+Webaddress
+
+Answer 2
+URL
+ 
+Loan tenure
+
+Answer 3
+range
+ 
+PANNO
+
+Answer 4
+text
+ 
+Email-id 
+
+Answer 5
+email
+ 
+Marital Status
+
+Answer 6
+radio
+ 
+4. If the phone number should accept only 10 digit numbers, which of the following options will suit?
+
+ANS: <input type="text" pattern="[0-9]{10}"/>
+
+5. Consider the below webpage:
+
+ANS: <input type="date" id="date" name="date" list="holidays">
+<datalist id="holidays">
+    <option label="Republic Day">2017-01-26</option>
+    <option label="May Day">2017-05-01</option>
+    <option label="Independence Day">2017-08-15</option>
+</datalist>

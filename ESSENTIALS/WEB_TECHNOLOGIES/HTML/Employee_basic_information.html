@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Employee Basic Information</h1>
+    <form>
+        <!-- Personal Information -->
+        <fieldset id="personal">
+            <legend id="personallegend">Personal Information</legend>
+            <table>
+                <tr>
+                    <td><label for="employeename">Employee Name:</label></td>
+                    <td><input type="text" id="employeename" placeholder="Enter the employee name" required></td>
+                </tr>
+                <tr>
+                    <td><label for="employeeid">Employee Id:</label></td>
+                    <td><input type="text" id="employeeid" placeholder="Enter the employee id" required></td>
+                </tr>
+                <tr>
+                    <td><label for="aadharnumber">Aadhar Number:</label></td>
+                    <td><input type="text" id="aadharnumber" placeholder="Enter the aadhar number"
+                            pattern="\d{4}-\d{4}-\d{4}" required></td>
+                </tr>
+                <tr>
+                    <td><label for="email">Enter Email:</label></td>
+                    <td><input type="text" id="email" placeholder="Enter the email" required></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <!-- Current Position -->
+        <fieldset id="current">
+            <legend id="currentlegend">Current Position</legend>
+            <table>
+                <tr>
+                    <td><label for="department">Department:</label></td>
+                    <td><input type="text" id="department" placeholder="Enter the department" required></td>
+                </tr>
+                <tr>
+                    <td><label for="designation">Designation:</label></td>
+                    <td><input type="text" id="designation" placeholder="Enter the designation" required></td>
+                </tr>
+                <tr>
+                    <td><label for="location">Location:</label></td>
+                    <td><input type="text" id="location" placeholder="Enter the location" required></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <!-- Previous Employment -->
+        <fieldset id="previous">
+            <legend id="previouslegend">Previous Employment</legend>
+            <table>
+                <tr>
+                    <td><label for="employer">Employer:</label></td>
+                    <td><input type="text" id="employer" placeholder="Enter the employer name" required></td>
+                </tr>
+                <tr>
+                    <td><label for="employerdesignation">Employer Designation:</label></td>
+                    <td><input type="text" id="employerdesignation" placeholder="Enter the employer designation"
+                            required></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <!-- Submit Button -->
+        <div>
+            <input type="submit" id="submit" value="Save & continue">
+        </div>
+    </form>
+</body>
+
+</html>

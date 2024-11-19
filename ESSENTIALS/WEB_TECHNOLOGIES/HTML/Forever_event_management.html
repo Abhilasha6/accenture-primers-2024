@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <figure id="forever_image">
+        <img id="image1" src="your_image_source.jpg" alt="Forever - An Event Management Company">
+        <figcaption>Forever - An Event Management Company</figcaption>
+    </figure>
+
+    <table border="1">
+        <caption id="table_caption">Vendor Registration Form</caption>
+        <tr>
+            <td><label for="cname">Company Name:</label></td>
+            <td><input type="text" id="cname" placeholder="Enter company name" required></td>
+        </tr>
+        <tr>
+            <td>Type:</td>
+            <td>
+                <input type="radio" id="corporation" name="ctype" value="corporation" required>
+                <label for="corporation">Corporation</label>
+                <input type="radio" id="partnership" name="ctype" value="partnership" required>
+                <label for="partnership">Partnership</label>
+                <input type="radio" id="individual" name="ctype" value="individual" required>
+                <label for="individual">Individual</label>
+                <input type="radio" id="others" name="ctype" value="others" required>
+                <label for="others">Others</label>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="phno">Phone Number:</label></td>
+            <td><input type="tel" id="phno" placeholder="Enter phone number" pattern="[789][0-9]{9}" required></td>
+        </tr>
+        <tr>
+            <td><label for="email">Email ID:</label></td>
+            <td><input type="email" id="email" placeholder="Enter email id" required></td>
+        </tr>
+        <tr>
+            <td><label for="address">Location:</label></td>
+            <td><textarea id="address" rows="4" cols="50" placeholder="Enter location" required></textarea></td>
+        </tr>
+        <tr>
+            <td><label for="link">Website Address:</label></td>
+            <td><input type="url" id="link" placeholder="Enter website address" required></td>
+        </tr>
+        <tr>
+            <td><label for="tin">TIN No:</label></td>
+            <td><input type="number" id="tin" placeholder="Enter TIN No" required></td>
+        </tr>
+        <tr>
+            <td><label for="expiry">TIN No Expiry Date:</label></td>
+            <td><input type="date" id="expiry" required></td>
+        </tr>
+        <tr>
+            <td><label for="cost">Average Project Cost:</label></td>
+            <td>
+                <input type="range" id="cost" min="25000" max="500000" step="1000" onchange="show_value(this.value);"
+                    required>
+                <span id="range_value">25000</span>
+                <script>
+                    function show_value(value) {
+                        document.getElementById('range_value').textContent = value;
+                    }
+                </script>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="profile">Upload Images of Licence, PAN & Facade:</label></td>
+            <td><input type="file" id="profile" accept="image/*" multiple required></td>
+        </tr>
+    </table>
+
+    <div id="foot">
+        <input type="submit" id="submit" value="REGISTER">
+        <input type="reset" id="reset" value="CLEAR">
+    </div>
+</body>
+
+</html>
