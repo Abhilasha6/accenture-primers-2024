@@ -1,0 +1,26 @@
+1. Sita wishes to greet the user when the user clicks on "Greet Me" button. In which event does she need to write the JavaScript code for greeting the user?
+
+ANS: onclick
+
+2. Which of the below java script code helps to change the content of the paragraph tag dynamically?
+
+<p id="pid1">Aim Higher.. Sky is your limit
+
+ANS: document.getElementById("pid1").innerHTML = "Never give up!!";
+
+3. Which of the below statements are used to comment a line in JavaScript file?
+
+ANS:// this is a comment
+
+4. When a user views a page containing a JavaScript program, which machine actually executes the script?
+
+ANS: The User's machine running a Web browser
+
+5. When you want to enclose; some JavaScript statements to an HTML file, which is the correct tag you have to use?
+
+ANS: <SCRIPT>
+
+6. David, a beginner in web development trying to perform one particular operation  using client side JavaScript.  Choose the correct option(s) that he can't be done with client-side JavaScript?
+
+ANS: Store the form's contents to a database file on the server
+
