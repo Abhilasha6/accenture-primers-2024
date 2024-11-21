@@ -14,33 +14,28 @@ ANS: <form action="thanks.html">
 
 3. Choose the relavant HTML input type attributes.
 
-ANS: MobileNo
-
+ANS: 
+MobileNo
 Answer 1
 tel
  
 Webaddress
-
 Answer 2
 URL
  
 Loan tenure
-
 Answer 3
 range
  
-PANNO
-
+PAN NO.
 Answer 4
 text
  
 Email-id 
-
 Answer 5
 email
  
 Marital Status
-
 Answer 6
 radio
  
