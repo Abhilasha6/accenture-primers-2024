@@ -1,0 +1,56 @@
+1. What is the output of the below code snippet
+
+<script type="text/javascript">
+
+amt=55+"55";
+
+document.write(amt);
+
+</script>
+
+ANS: 5555
+
+2. Choose the correct JavaScript statement which helps you to write "World of JavaScript" in a web page?
+
+ANS: document.write("World of JavaScript")
+
+3. Which of the below is the correct syntax for exectuing some code if "amt" is equal to 5000?
+
+ANS: if (amt == 5000)
+
+4. Ram is the developer of Allen Software company. He is designing the website for the banking application. There is a button called 'check interest rates'. When that button is clicked, the user has to be redirected to a seperate page to show the domestic interest rates.  Help Ram in accomplishing this task using the javascript.
+
+ANS: window.location
+
+5. The parseInt() method converts the string to a integer. Before applying this function, Ram wants to know the type of the argument that is passed to the function. Which operator in javascript would support this ?
+
+ANS: typeof
+
+6. Polson is allocated with the task of email validation in java script. He needs to extract character by character and check for email validation like looking for @ . etc. Which method is best suited to extract every character from the text?
+
+ANS: charAt()
+
+7. Predict the output of the following JavaScript code:
+
+<html>
+
+<head>
+
+<script>
+
+var txt= "pass 70% fail 30%";
+
+var pattern = /\D/g;
+
+var res= txt.match(pattern);
+
+document.write(res);
+
+</script>
+
+</head>
+
+</html>
+
+ANS: p,a,s,s, ,%, ,f,a,i,l, ,%
+

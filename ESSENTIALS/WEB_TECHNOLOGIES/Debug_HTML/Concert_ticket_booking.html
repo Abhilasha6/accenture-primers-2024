@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elektra Waves Ticket Booking</title>
+</head>
+<body>
+    <a href="#costchart" id="costchart_ref">View ticket cost chart</a>
+    
+    <form onsubmit="costCalculation(); return false;">
+        <h3>Personal Details</h3>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" pattern="[A-Za-z\s]+" placeholder="Enter your name" required>
+        
+        <label>Gender</label>
+        <input type="radio" id="male" name="gender" value="male" required> Male
+        <input type="radio" id="female" name="gender" value="female" required> Female
+        
+        <label for="address">Address</label>
+        <textarea id="address" name="address" rows="4" cols="50" placeholder="Enter your address" required></textarea>
+        
+        <label for="phoneNumber">Phone Number</label>
+        <input type="tel" id="phoneNumber" name="phoneNumber" pattern="[7-9][0-9]{9}" placeholder="Enter your phone number" required>
+        
+        <h3>Ticket Details</h3>
+        <label for="noOfTickets">No Of Tickets</label>
+        <input type="range" id="noOfTickets" name="noOfTickets" min="5" max="40" step="1" oninput="show_value(this.value)" required>
+        <span id="ticketValue">5</span>
+        
+        <label for="ticketType">Ticket Type</label>
+        <select id="ticketType" name="ticketType" required>
+            <option value="Floor">Floor</option>
+            <option value="Balcony">Balcony</option>
+        </select>
+        
+        <h3>Add Ons</h3>
+        <input type="checkbox" id="couponCode" name="addOns" value="CouponCode">
+        <label for="couponCode">Coupon Code</label>
+        
+        <input type="checkbox" id="refreshment" name="addOns" value="Refreshment">
+        <label for="refreshment">Refreshment</label>
+        
+        <label for="cc">Coupon Code</label>
+        <input type="text" id="cc" name="cc" list="couponCodes" placeholder="Enter Coupon Code" required>
+        <datalist id="couponCodes">
+            <option value="ELEKTRA20">
+            <option value="SIMBA20">
+        </datalist>
+        
+        <input type="submit" id="submit" value="CONFIRM BOOKING">
+        <input type="reset" id="clear" value="CLEAR">
+        
+        <div id="result"></div>
+    </form>
+    
+    <div id="costchart">
+        <h3>Ticket Cost Chart</h3>
+        <table border="1">
+            <tr>
+                <th>Ticket Type</th>
+                <th>Base Price</th>
+            </tr>
+            <tr>
+                <td>Floor</td>
+                <td>Rs. 400</td>
+            </tr>
+            <tr>
+                <td>Balcony</td>
+                <td>Rs. 500</td>
+            </tr>
+        </table>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
