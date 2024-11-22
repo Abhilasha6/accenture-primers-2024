@@ -1,0 +1,29 @@
+1. In a neural network, what does a neuron compute?
+ANS: A weighted sum followed by an activation function
+
+2. Which function introduces non-linearity in a neural network?
+ANS: Activation Function
+
+3. Which of the following is NOT a layer type in a typical neural network?
+ANS:Quantum Layer
+
+4. Which application of ML is used to detect unusual patterns in data?
+ANS: Anomaly Detection
+
+5. In which type of ML does an agent learn by interacting with an environment?
+ANS: Reinforcement Learning
+
+6. Which of the following is a common activation function in neural networks?
+ANS: ReLU (Rectified Linear Unit)
+
+7. How is a neural network's performance typically evaluated during training?
+ANS: Using a validation set
+
+8. Which of the following is a challenge in training deep neural networks?
+ANS: Vanishing/Exploding gradients
+
+9. What is the role of the loss function in training a neural network?
+ANS: To quantify the difference between predicted and actual values
+
+10. What is the primary purpose of backpropagation?
+ANS: Adjusting weights based on the error
