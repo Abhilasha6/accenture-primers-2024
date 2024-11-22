@@ -1,0 +1,29 @@
+1. Which of the following is NOT a direct application of the Transformer architecture?
+ANS: Image recognition
+
+2. Which generative model introduced a stochastic layer that models data in a latent space?
+ANS: VAE
+
+3. What is the primary advantage of Transformers over RNNs in terms of processing sequences?
+ANS: Parallel Processing
+
+4. Which AI model series by OpenAI, based on the Transformer architecture, is known for generating highly coherent content?
+ANS: GPT series
+
+5. What mechanism allows the Transformer model to weigh the importance of different words in a sequence?
+ANS:  Self-Attention Mechanism
+
+6. Which model can transform horse photos into zebra photos without direct comparison?
+ANS: CycleGAN
+
+7. What is the main innovation introduced by the "Attention Is All You Need" paper?
+ANS: Transformer architecture
+
+8. Which model is known for its rules for creating stable and effective AI image-makers?
+ANS: DCGAN
+
+9. Which model demonstrated that using larger architectures can produce better images?
+ANS: BigGAN
+
+10. In the context of GANs, what is the role of the Discriminator?
+ANS: To distinguish between real and generated data

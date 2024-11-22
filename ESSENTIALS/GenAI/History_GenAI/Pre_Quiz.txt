@@ -1,0 +1,29 @@
+1. Who introduced Generative Adversarial Networks (GANs)?
+ANS: Ian Goodfellow
+
+2. What is the primary purpose of generative models?
+ANS: Generating new data
+
+3. Which of the following research papers is foundational for Variational Autoencoders (VAEs)?
+ANS: "Generative Adversarial Nets"
+
+4. Which model uses a probabilistic approach to encode and decode data?
+ANS: VAE
+
+5. Which of the following is NOT a direct application of GANs but rather an outcome of its influence?
+ANS: Reinforcement learning in game playing
+
+6. In which year were Generative Adversarial Networks (GANs) first introduced?
+ANS: 2014
+
+7. Which architecture is primarily associated with attention mechanisms?
+ANS: Transformer
+
+8. What are the two main components of a GAN?
+ANS: Generator and Discriminator
+
+9. Which model marked a significant milestone in the use of transformers in NLP?
+ANS: BERT
+
+10. Which pioneering research in Generative AI specifically emphasized the generation of text sequences?
+ANS: "Sequence to Sequence Learning with Neural Networks"
