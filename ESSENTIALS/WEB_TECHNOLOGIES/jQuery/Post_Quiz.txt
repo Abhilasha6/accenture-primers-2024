@@ -1,0 +1,47 @@
+1. John wants to animate (moving effect) an element in the webpage he designed.  For this, he set its CSS position property to its default value and applied the animations. If there is no syntax error in the code, what would be output he gets?
+
+ANS: Animation failed because the CSS position property set to default value, Animation failed because the CSS position property set to static
+
+2. jQuery is a JavaScript Object Notation library
+
+ANS: False
+
+3.Kiran wants to remove all the child nodes from the given div element. Help him to select the correct option to remove all the child node from the div element.
+
+<body>
+
+<div>
+
+  This is some text
+
+  <h2>Good morning</h2>
+
+  <p>This is a paragraph inside the div.</p>
+
+</div>
+
+<p>This is a paragraph outside the div.</p>
+
+</body>
+
+ANS: empty()
+
+4. Some people don’t want animation to interfere with their web page experience. What do I do if I want to let a user turn off the animation?
+
+ANS:    Use the jquery method:stop()
+
+5. Raju wants to remove an event handler that was attached with on() function.Help him to select the correct option.
+
+ANS: off()
+
+6. Rhita wants to replace a jQuery code '$(document).ready(fun)' using another equivalent method. Help her to find the correct method from the given options.
+
+ANS: $(fun)
+
+7. $("#name").remove(); This will remove the text field when you click on the button. State true or false.
+
+ANS: True
+
+8. Bind an event handler to the "blur" JavaScript event on an element.
+
+ANS: .blur()
