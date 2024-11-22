@@ -12,6 +12,8 @@ ANS: <form action="thanks.html">
 
 </form>
 
+// we are using input tag & not img bca we want to choose between 'like' and 'unlike' images & not only display them as pics
+
 3. Choose the relavant HTML input type attributes.
 
 ANS: 
@@ -51,3 +53,5 @@ ANS: <input type="date" id="date" name="date" list="holidays">
     <option label="May Day">2017-05-01</option>
     <option label="Independence Day">2017-08-15</option>
 </datalist>
+
+// datalist is used instead of select because we can add our own options also but using select tag we can choose only between options
