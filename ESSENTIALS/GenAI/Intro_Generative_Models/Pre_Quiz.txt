@@ -1,0 +1,29 @@
+1. If a model is better at distinguishing between classes rather than generating data, it is likely a _______.
+ANS: Discriminative model
+
+2. Which model type is primarily concerned with determining P(y | x)?
+ANS: Discriminative Model
+
+3. What is the primary goal of generative models in AI?
+ANS: To generate new data samples
+
+4. Which statement best differentiates generative from discriminative models?
+ANS: Generative models learn the joint probability distribution, while discriminative models learn the conditional probability
+
+5. Which of the following is crucial for understanding the behavior of generative models?
+ANS: Probability distributions and likelihood
+
+6. In the context of generative models, what does P(x) represent?
+ANS: The probability distribution of the data x
+
+7. Which of the following is NOT a generative model?
+ANS: Support Vector Machines
+
+8. Generative models are primarily used for which of the following tasks?
+ANS: Generating new data samples similar to the input data
+
+9. What does likelihood measure in the context of a model?
+ANS: How well the model explains the observed data
+
+10. In the context of models, what does P(x | y) typically represent?
+ANS:The probability of x given y

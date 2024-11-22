@@ -1,0 +1,29 @@
+1. Which of the following is NOT a property of likelihood?
+ANS: It is normalized like a probability
+
+2. Which model type aims to capture the joint probability P(x, y)?
+ANS: Generative Model
+
+3.Which claim regarding generative models isn't true?
+ANS: They always require labeled data for training
+
+4. Which of the following best describes the difference between generative and discriminative models?
+ANS: Generative models learn the data distribution, while discriminative models learn the decision boundary
+
+5. Within the architecture of Generative Adversarial Networks (GANs), which duo of fundamental elements are paramount?
+ANS: Generator and Discriminator
+
+6. For what tasks can generative models be applied?
+ANS: Data generation, denoising, inpainting, and more
+
+7. What does a probability distribution provide?
+ANS: A mathematical description of outcomes for a random variable
+
+8. What's a significant hurdle when training GANs?
+ANS: Mode collapse
+
+9. Within generative models, what function does the discriminator serve in GANs?
+ANS: To distinguish between real and generated data
+
+10. How is the likelihood of data given a model symbolized?
+ANS: P(data | model)
