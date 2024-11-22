@@ -1,0 +1,29 @@
+1. If an AI system is designed to label images of cats and dogs, it is primarily a _______ model.
+ANS: Discriminative
+
+2. Which AI type is best for predicting outcomes?
+ANS: Regression AI
+
+3. Which is NOT a real-world application of Generative AI?
+ANS: Predicting stock market prices
+
+4. Which of the following is a direct application of Generative AI in the entertainment industry?
+ANS: Creating realistic CGI characters
+
+5. In the context of AI, which model type is more concerned with the underlying distribution of data?
+ANS: Generative AI
+
+6. What is Generative AI primarily used for?
+ANS: Generating new data
+
+7. Generative AI can be used to create which of the following?
+ANS: New artworks and music pieces
+
+8. How does Generative AI differ from Classification AI?
+ANS: It generates new data rather than categorizing existing data
+
+9. Which statement best describes the role of Generative AI?
+ANS: It focuses on generating data based on learned patterns
+
+10. Why is Generative AI considered significant in the realm of artificial intelligence?
+ANS: It can produce new, previously unseen data samples

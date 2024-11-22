@@ -1,0 +1,23 @@
+1. Which of the following fields can utilize Generative AI to create new, original content or simulations?
+ANS: Art and Music
+
+2.Which AI type primarily focuses on labeling data?
+ANS: Supervised AI
+
+3. Generative AI is closely related to which type of models?
+ANS: Generative models
+
+4. Which type of AI is primarily concerned with how data is generated rather than how it's separated?
+ANS: Generative AI
+
+5. In which application is Generative AI NOT typically used?
+ANS: Automating customer service chats
+
+6. What does AI stand for?
+ANS: Artificial Intelligence
+
+7. Which of the following is NOT a type of AI?
+ANS: Generative Art
+
+8. Which statement best defines Generative AI?
+ANS: GenerativeAI that can generate new data samples
