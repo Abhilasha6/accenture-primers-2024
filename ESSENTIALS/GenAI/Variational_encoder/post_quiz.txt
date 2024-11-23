@@ -1,0 +1,29 @@
+1. In which application can VAEs detect unusual patterns?
+ANS: Anomaly detection in industrial equipment
+
+2. Which of the following is a key component of the VAE loss function?
+ANS: KL divergence
+
+3. In which application might VAEs be used to enhance image quality?
+ANS: Medical imaging
+
+4. Why is the reparameterization trick important in VAEs?
+ANS: It allows backpropagation through random nodes
+
+5. Which optimization technique is commonly used with VAEs?
+ANS: Stochastic gradient descent (SGD)
+
+6. Autoencoders primarily focus on which aspect of data?
+ANS: Reconstruction
+
+7. Which of the following is NOT a typical use case for VAEs?
+ANS: Real-time speech translation
+
+8. Why is variational inference used in VAEs?
+ANS: To approximate intractable posterior distributions
+
+9. How do VAEs differ from traditional autoencoders?
+ANS: VAEs introduce randomness via a probabilistic layer
+
+10. What do VAEs use to generate a distribution over latent variables?
+ANS: Variational inference

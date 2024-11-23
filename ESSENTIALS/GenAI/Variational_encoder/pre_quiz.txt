@@ -1,0 +1,29 @@
+1. Why are autoencoders considered generative models?
+ANS: They can reconstruct and generate data similar to the input
+
+2. Reparameterization trick is used to...
+ANS: Deal with the non-differentiability of sampling in VAEs
+
+3. What does VAE stand for?
+ANS: Variational Autoencoder
+
+4. What is the primary role of autoencoders in generative modeling?
+ANS: Data compression and reconstruction
+
+5. Which application does NOT typically use VAEs?
+ANS: Text summarization
+
+6. Why is the reparameterization trick crucial in training VAEs?
+ANS: It allows backpropagation through stochastic nodes
+
+7. In the context of Variational Autoencoders (VAEs), what does variational inference help achieve?
+ANS: Approximation of complex posterior distributions
+
+8. Which component of the VAE loss function ensures the latent variables adhere to a standard distribution?
+ANS: KL divergence
+
+9. In which application might you use a VAE for generating new, coherent samples?
+ANS: Designing virtual fashion items
+
+10. Which of the following is NOT a type of autoencoder?
+ANS: Supervised autoencoder

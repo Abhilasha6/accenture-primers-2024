@@ -1,0 +1,44 @@
+1. What is a primary application of VAEs mentioned in the case study?
+ANS: Anomaly Detection
+
+2. What is the y-axis label of the chart visualizing the error?
+ANS: Reconstruction Error
+
+3. Which is NOT a challenge in implementing VAEs for this use-case?
+ANS: Increasing data storage costs
+
+4. For how many epochs is the VAE trained?
+ANS: 50
+
+5. What criterion is used to determine if a data point is anomalous?
+ANS: If its error is above the 99th percentile
+
+6. What is the VAE trained to learn effectively?
+ANS: A compressed representation of the data
+
+7. Why is understanding the VAE's outputs challenging?
+ANS: They can be complex and non-intuitive
+
+8. In the VAE, what does the sampling function introduce?
+ANS: Randomness
+
+9. What two components combine to form the VAE's loss?
+ANS: MSE and KL divergence
+
+10. Which of the following is NOT an attribute in the given data?
+ANS: Humidity
+
+11. What type of dataset does the manufacturing plant collect?
+ANS: Time Series Dataset
+
+12. How is the data divided for training the VAE?
+ANS: 80-20
+
+13. What does the VAE attempt to minimize during training?
+ANS: Loss
+
+14. Why is data preprocessing required before training the VAE?
+ANS: To ensure it is suitable for training
+
+15. Over time, due to certain changes, what might be required of the VAE model?
+ANS: Continuous adaptation
